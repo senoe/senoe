@@ -1,9 +1,7 @@
 # welcome to my amazing github profile wow so cool
 gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 
-discord: senoe#0001
-twitter: senosity
-email: senoe+git2@mirxge.cc
+discord: senoe#0001 | twitter: senosity | email: senoe+git2@mirxge.cc
 <!--### Hi there 👋
 -->
 <!--
