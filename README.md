@@ -2,9 +2,8 @@
 gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 
 discord: senoe#0001
-
 twitter: senosity
-
+email: senoe+git2@mirxge.cc
 <!--### Hi there 👋
 -->
 <!--
