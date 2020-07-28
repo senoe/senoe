@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# welcome to my amazing github profile wow so cool
+<!--### Hi there 👋
+-->
 <!--
 **senoe/senoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
