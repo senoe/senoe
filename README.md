@@ -1,4 +1,10 @@
 # welcome to my amazing github profile wow so cool
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+discord: senoe#0001
+
+twitter: senosity
+
 <!--### Hi there 👋
 -->
 <!--
