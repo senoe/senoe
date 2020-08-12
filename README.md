@@ -1,7 +1,7 @@
-# welcome to my amazing github profile wow so cool
-gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+# welcome to my terrible github profile
+there is nothing to see here
 
-discord: senoe#0001 | twitter: senosity | email: senoe@mirxge.cc
+discord: senoe#0001 | twitter: twsenoe | email: senoe@mirxge.cc
 <!--### Hi there 👋
 -->
 <!--
