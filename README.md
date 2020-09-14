@@ -1,7 +1,5 @@
-# welcome to my terrible github profile
-there is nothing to see here
-
-discord: senoe#0001 | twitter: twsenoe | email: senoe@mirxge.cc
+# senoe
+Hi there 👋
 <!--### Hi there 👋
 -->
 <!--
